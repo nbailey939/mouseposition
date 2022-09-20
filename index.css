@@ -28,13 +28,14 @@ body {
 }
 
 .mouse-event h4 {
+  color: black;
   position: absolute;
   top: -50px;
   font-size: 14px;
   left: 50%;
   transform: translateX(-50%);
   white-space: nowrap;
-  font-weight: 100;
+  font-weight: bold;
 }
 
 @media (max-width: 500px) {
